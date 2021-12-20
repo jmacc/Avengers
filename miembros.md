@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * JMACC
+* Fiury
